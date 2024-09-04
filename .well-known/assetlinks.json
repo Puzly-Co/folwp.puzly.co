@@ -1,0 +1,14 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "co.puzly.folwp",
+			"sha256_cert_fingerprints": [
+				"B9:72:DD:5D:E4:1A:66:62:16:F1:27:91:FF:57:4D:49:80:EF:03:86:81:FE:F7:BF:8C:A2:46:2D:66:4B:10:69"
+			]
+		}
+	}
+]

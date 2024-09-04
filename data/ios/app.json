@@ -1,0 +1,46 @@
+{
+	"latest_build": 1,
+	"min_supported_build": 1,
+	"version": "24.1",
+	"store_url": "https://apps.apple.com/app/Four-Letter-word-puzzle/id6596769905",
+	"other_languages": [
+		{
+			"name": "Dört Harfli Kelime Oyunu",
+			"language": "Türkçe",
+			"url": "https://apps.apple.com/app/co.puzly.dhko",
+			"status": "beta"
+		},
+		{
+			"name": "Төрт Тамгалуу Сөз Оюну",
+			"language": "Кыргызча",
+			"url": "https://apps.apple.com/app/co.puzly.ttso",
+			"status": "beta"
+		}
+	],
+	"other_games": [
+		{
+			"name": "Five-Letter Word Puzzle",
+			"language": "English",
+			"url": "https://apps.apple.com/app/co.puzly.flwp",
+			"status": "beta"
+		},
+		{
+			"name": "Six-Letter Word Puzzle",
+			"language": "English",
+			"url": "https://apps.apple.com/app/co.puzly.slwp",
+			"status": "beta"
+		}
+	],
+	"custom_ads": {},
+	"first_puzzle_month": {
+		"month": 1,
+		"year": 2024
+	},
+	"latest_puzzle_month": {
+		"month": 12,
+		"year": 2024
+	},
+	"latest_dictionary_version": 1,
+	"date_api": "https://timeapi.io/api/Time/current/zone?timeZone=Etc/UTC",
+	"date_api_fallback": "https://worldtimeapi.org/api/timezone/Etc/UTC"
+}
