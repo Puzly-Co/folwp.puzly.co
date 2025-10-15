@@ -10,5 +10,17 @@
 				"B9:72:DD:5D:E4:1A:66:62:16:F1:27:91:FF:57:4D:49:80:EF:03:86:81:FE:F7:BF:8C:A2:46:2D:66:4B:10:69"
 			]
 		}
+	},
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "co.puzly.xhko",
+			"sha256_cert_fingerprints": [
+				"76:2D:D3:A8:0B:9F:B0:3E:EF:E0:5C:C4:D2:F6:3D:21:80:E4:C0:A8:13:C0:DA:92:B3:56:7F:B5:D3:8E:F6:53"
+			]
+		}
 	}
 ]
